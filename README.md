@@ -36,15 +36,18 @@ Haar Cascade Face Detection
 
 ## Project Structure
 
-Face-Mask-Detection
+## Project Structure
+'''
+Face-Mask-Detection/
 │
-├── main.py                # Main script for real-time detection
-├── mask_detector.h5      # Trained CNN model
-├── requirements.txt      # Required Python libraries
-├── reference.ipynb       # This contains some basics of Opencv and other libraries used here
-└── README.md             # Project documentation
+├── main.py              # Main script for real-time detection
+├── mask_detector.h5    # Trained CNN model
+├── requirements.txt    # Required Python libraries
+├── reference.ipynb     # OpenCV experiments / notes
+└── README.md           # Project documentation
 
 ---------------------------------------
+'''
 
 ## Installation
 
